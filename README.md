@@ -12,7 +12,7 @@
 | [Progress Bar](https://github.com/stadium-software/progress-bar) | Vertical workflow progress indicator | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | How to make your DataGrids responsive | 6 |
 | [Samples Database](https://github.com/stadium-software/samples-database) | The instructions on how to set up the database, connector and DataGrid for a number of samples | 5, 6 |
-| [Theming Kit](https://github.com/stadium-software/theming-kit) | CSS to create new Stadium themes | 6 |
+| [Theming Kit](https://github.com/stadium-software/theming-kit) | All the CSS you need to create new Stadium themes | 6 |
 
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
 </div>
