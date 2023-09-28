@@ -6,6 +6,7 @@
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Conditional DataGrid Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling DataGrid rows or cells according to values found therein | 6 |
 | [DataGrid Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms for DataGrids | 6 |
+| [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Adding a option for users to filter the values shown in a DropDown | 6 |
 | [Holy Grail Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown | 6 |
 | [Popups](https://github.com/stadium-software/popups) | Create in-page modular popups or make pages appear as modular popups | 6 |
