@@ -7,8 +7,8 @@
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Conditional DataGrid Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling DataGrid rows or cells according to values found therein | 6 |
-| [DataGrid Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms for DataGrids | 6 |
+| [Conditional DataGrid Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |
+| [DataGrid Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 
 ## DropDowns
@@ -16,7 +16,7 @@
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
-| [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown | 6 |
+| [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
 
 ## Misc
 
