@@ -9,7 +9,7 @@
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Conditional DataGrid Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |
 | [DataGrid Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms | 6 |
-| [DataGrid Inline Editing](https://github.com/stadium-software/datagrid-inline-edit) | Editing DataGrid all or selected rows in DataGrids inline | 6 |
+| [DataGrid Inline Editing](https://github.com/stadium-software/datagrid-inline-edit) | Editing all or selected rows in DataGrids inline | 6 |
 | [DataGrid Inline Column Editing](https://github.com/stadium-software/datagrid-column-inline-edit) | Enabling editing of selected DataGrids columns inline | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 | [Set DataGrid Page](https://github.com/stadium-software/datagrid-set-page) | Navigating to any DataGrid page | 6 |
