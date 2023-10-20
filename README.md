@@ -18,6 +18,7 @@
 | [DataGrid Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms | 6 |
 | [DataGrid Inline Editing](https://github.com/stadium-software/datagrid-inline-edit) | Editing all or selected rows in DataGrids inline | 6 |
 | [DataGrid Inline Column Editing](https://github.com/stadium-software/datagrid-column-edit-inline) | Editing selected DataGrids columns inline | 6 |
+| [DataGrid Show / Hide Column](https://github.com/stadium-software/datagrid-showhide-columns) | Enabling page visitors to show and hide datagrid columns | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 | [Set DataGrid Page](https://github.com/stadium-software/datagrid-set-page) | Navigating to any DataGrid page | 6 |
 
