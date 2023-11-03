@@ -34,6 +34,7 @@
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Holy Grail Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
+| [LiveUpdate](https://github.com/stadium-software/live-update) | Updating page data at a regular interval | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
 | [Progress Bar](https://github.com/stadium-software/progress-bar) | Vertical workflow progress indicator | 6 |
 | [Samples Database](https://github.com/stadium-software/samples-database) | Creating the samples database, connector and DataGrid | 5, 6 |
