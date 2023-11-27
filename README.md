@@ -1,11 +1,9 @@
 
 <div class="mydocy" style="display: flex; flex-direction: column;">
 
-# Stadium Samples Library
-
 The library has been relocated. Please visit the new location below:
 
-<h2><a href="https://github.com/stadium-software/modules">Stadium Modules Library</a></h2>
+<h1><a href="https://github.com/stadium-software/modules">Stadium Modules Library</a></h1>
 
 <!--
 
