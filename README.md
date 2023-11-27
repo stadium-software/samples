@@ -49,5 +49,9 @@ The library has been relocated. Please visit the new location below:
 
 -->
 
-[Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
+<hr>
+
+More Stadium stuff:
+
+[All Repos](https://github.com/stadium-software) | [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh) 
 </div>
