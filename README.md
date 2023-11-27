@@ -3,6 +3,12 @@
 
 # Stadium Samples Library
 
+The library has been relocated. Please visit the new location below:
+
+[Stadium Modules Library](https://github.com/stadium-software/modules)
+
+<!--
+
 ## CheckBoxes and CheckBoxLists
 
 | Repo | Description | Stadium Versions |
@@ -40,6 +46,8 @@
 | [Progress Bar](https://github.com/stadium-software/progress-bar) | Vertical workflow progress indicator | 6 |
 | [Samples Database](https://github.com/stadium-software/samples-database) | Creating the samples database, connector and DataGrid | 5, 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
+
+-->
 
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
 </div>
