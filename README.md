@@ -5,9 +5,7 @@
 
 The library has been relocated. Please visit the new location below:
 
-<h2>
-[Stadium Modules Library](https://github.com/stadium-software/modules)
-</h2>
+<h2><a href="https://github.com/stadium-software/modules">Stadium Modules Library</a></h2>
 
 <!--
 
